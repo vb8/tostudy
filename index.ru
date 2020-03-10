@@ -7,13 +7,6 @@
     <link rel="stylesheet" href="styleSheet.css">
 </head>
 <body>
-    <a rel="stylesheet1232" type="text/css" href="PageArgue.html">Лекция по Аргументации</a>
-    <div>
-        <a rel="stylesheet1232" type="text/css" href="https://www.w3schools.com/">w3schools</a>
-    </div>
-    <div>
-        <a rel="stylesheet1232" type="text/css" href="https://translate.google.ru/?hl=ru&tab=wT">Translate</a>
-    </div>
-    
+  <div> is there any cucumbers at the shop?</div>
 </body>
 </html>
