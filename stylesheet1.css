@@ -1,6 +1,6 @@
 div{color: blue;
 background:#47ae4c;}
-.containerwords {
+.containerwords{
 display: flex;
 justify-content: space-between;
 align-items: center;
