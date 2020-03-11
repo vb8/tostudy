@@ -9,11 +9,9 @@ font-size: 30px;
 background: grey;
 }
 .containerwords {
-    display: flex;
+display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 60px;  
-}
-.blockword { 
-    margin:20px;
-}
+    margin-bottom: 60px;}
+.blockword{ 
+    margin:20px;}
